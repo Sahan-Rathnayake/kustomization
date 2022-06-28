@@ -3,8 +3,8 @@ apiVersion: v1
 kind: Service
 metadata:
   labels:
-    app: csi-him-ui
-  name: csi-him-ui
+    app: csi-him-ui-service
+  name: csi-him-ui-service
   namespace: csi-dev
 spec:
   ports:
