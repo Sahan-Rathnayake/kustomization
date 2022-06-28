@@ -3,8 +3,8 @@ apiVersion: v1
 kind: Service
 metadata:
   labels:
-    app: csi-ehr-common-scheduler
-  name: csi-ehr-common-scheduler
+    app: csi-java-ehr-common-scheduler
+  name: csi-java-ehr-common-scheduler
   namespace: csi-dev
 spec:
   ports:
