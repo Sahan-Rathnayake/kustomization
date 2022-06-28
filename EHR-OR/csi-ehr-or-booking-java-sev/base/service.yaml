@@ -3,8 +3,8 @@ apiVersion: v1
 kind: Service
 metadata:
   labels:
-    app: csi-ehr-or-booking
-  name: csi-ehr-or-booking
+    app: csi-java-ehr-or-booking
+  name: csi-java-ehr-or-booking
   namespace: csi-dev
 spec:
   ports:
