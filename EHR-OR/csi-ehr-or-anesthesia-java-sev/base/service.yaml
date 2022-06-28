@@ -3,8 +3,8 @@ apiVersion: v1
 kind: Service
 metadata:
   labels:
-    app: csi-ehr-or-anesthesia
-  name: csi-ehr-or-anesthesia
+    app: csi-java-ehr-or-anesthesia
+  name: csi-java-ehr-or-anesthesia
   namespace: csi-dev
 spec:
   ports:
