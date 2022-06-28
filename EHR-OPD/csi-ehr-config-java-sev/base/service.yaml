@@ -3,8 +3,8 @@ apiVersion: v1
 kind: Service
 metadata:
   labels:
-    app: csi-ehr-config
-  name: csi-ehr-config
+    app: csi-java-ehr-config
+  name: csi-java-ehr-config
   namespace: csi-dev
 spec:
   ports:
